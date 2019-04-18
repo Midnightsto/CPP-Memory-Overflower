@@ -15,5 +15,5 @@ int main()
         CPUFiller(); //Call the CPUFiller function. Doesn't do really bad things.
     }
     */
-    //HardDriveDestroyer("test.txt"); //This one is my favorite :D
+    //DickDestroyDecember("test.txt"); //This one is my favorite :D
 }
